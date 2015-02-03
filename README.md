@@ -1,0 +1,2 @@
+# phpLog
+write log class
